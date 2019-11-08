@@ -1,0 +1,8 @@
+1 : Andriod Studio
+2 : Pycharm
+3 : install Appium client
+4 : install pytest
+5 : application : API Demos
+6 : emulator device name : pixel 3 api 28
+7 : resolution : 1080 * 2160
+8 : install pip pytest-html

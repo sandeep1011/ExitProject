@@ -1,0 +1,16 @@
+{
+
+	"Animation": "//android.widget.TextView[@text='Animation' and @index='1']",
+	"HideShowAnimation": "//android.widget.TextView[@index='5']",
+	"ButtonOne": "//android.widget.Button[@text='0']",
+	"ButtonTwo": "//android.widget.Button[@text='1']",
+	"ButtonThree": "//android.widget.Button[@text='2']",
+	"ButtonFour": "//android.widget.Button[@text='3']",
+	"ShowButtons": "com.touchboarder.android.api.demos:id/addNewButton",
+	"App": "//android.widget.TextView[@text='App' and @index='2']",
+	"ActionBar": "android:id/text1",
+	"DisplayOptions": "//android.widget.TextView[@index='5']",
+	"ShowTitle": "com.touchboarder.android.api.demos:id/toggle_show_title",
+	"GetTitle": "android:id/action_bar_title"
+
+}
